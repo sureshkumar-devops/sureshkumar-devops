@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Suresh Kumar, a Full Stack Software Engineer from 🇮🇳   passionate about developing production-ready applications with 8+ years of professional onsite as well as remote working experience.
+
+I mostly work with Dotnet, MVC Frameworks and Cloud based technologies. 
+Recently working on DevOps Engineer🚀
+
+ 
+
 <!--
 **sureshkumar-devops/sureshkumar-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
