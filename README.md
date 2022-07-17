@@ -5,7 +5,24 @@ I am Suresh Kumar, a Full Stack Software Engineer from 🇮🇳   passionate abo
 I mostly work with Dotnet, MVC Frameworks and Cloud based technologies. 
 Recently working on DevOps Engineer🚀
 
- <img src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png" alt="dotnet" width="50px" height="50px" />
+<h2>Operating System (OS)</h2>
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux" width="90px" height="90px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" alt="windows" width="90px" height="90px" />
+
+
+ <img src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png" alt="dotnet" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="azure" width="100px" height="100px" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws" width="100px" height="100px" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker" width="100px" height="100px" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" alt="ansible" width="100px" height="100px" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="kubernetes" width="100px" height="100px" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="terraform" width="100px" height="100px" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python" width="100px" height="100px" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png" alt="maven" width="100px" height="100px" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="jenkins" width="100px" height="100px" />
+
+
+ 
+ 
+<!-- ![Suresh Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sureshkumar-devops&show_icons=true) -->
+
+<!-- ![Suresh Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sureshkumar-devops&show_icons=true&theme=radical) -->
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sureshkumar-devops&theme=highcontrast&show_icons=true&count_private=true)
+
+
 
 <!--
 **sureshkumar-devops/sureshkumar-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
